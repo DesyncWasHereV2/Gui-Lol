@@ -119,3 +119,5 @@ TextLabel.BackgroundTransparency = 1
 TextLabel.Parent = Title
 
 game:GetService('ContentProvider'):PreloadAsync({'rbxasset://textures/ui/Scroll/scroll-top.png', 'rbxasset://textures/ui/Scroll/scroll-middle.png', 'rbxasset://textures/ui/Scroll/scroll-bottom.png'})
+
+return ScreenGui
