@@ -14,9 +14,6 @@ local Title = Instance.new('Frame')
 local UICorner_3 = Instance.new('UICorner')
 local TextLabel = Instance.new('TextLabel')
 
-ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
-ScreenGui.Parent = game:GetService('StarterGui')
-
 Main.Name = 'Main'
 Main.AnchorPoint = Vector2.new(0.5, 0.5)
 Main.Size = UDim2.new(0.16927899420261383, 0, 0.406703919172287, 0)
